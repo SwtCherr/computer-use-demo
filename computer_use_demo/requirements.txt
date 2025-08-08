@@ -1,0 +1,4 @@
+streamlit==1.41.0
+anthropic[bedrock,vertex]>=0.39.0
+openai>=1.0.0
+jsonschema==4.22.0
